@@ -1,0 +1,21 @@
+{
+ "bug_id" : "BUG ID   : #1",
+ "title" : "TITLE     : CONTACT FORM - No confirmation is shown",
+
+ "summary" : "SUMMARY : The page where the contact form is on does not show any confirmation message after submitting a contact request.",
+ "screenshot" : "SCREENSHOT  : See attached screenshot",
+ "platform" : "PLATFORM  : Windows 10 Home, 10.0.19044",
+ "browser" : "BROWSER  : Chrome 101.0.4951.54",
+
+ "reporter" : "REPORTER  : Tetiana B",
+ "date_and_time" : "DATE AND TIME  : Fri May 05 10:12:40 2022",
+ "bug_priority" : "BUG PRIORITY  : High",
+ "bug_severity" : "BUG SEVERITY  : Critical",
+
+ "notes" : "NOTES",     
+ "decription" : "DESCRIPTION  : 1. Filled out contact form ; 2. Clicked on submit; 3. Form loaded a while; 4. Contact form showed '<empty>'.",
+
+"expected" : "EXPECTED  : 'Thank you for contacting us, we get in touch shortly'",
+"actual" : "ACTUAL  : '<empty>'",
+"bug_status" : "BUG STATUS  : IN PROCESS"
+}
